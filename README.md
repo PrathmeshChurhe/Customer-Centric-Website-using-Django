@@ -39,7 +39,7 @@ This project is a customer-focused website built with Django. It includes essent
 
 1. **Clone the Repository**:
     ```bash
-    git clone <repository-url>
+    git https://github.com/PrathmeshChurhe/Customer-Centric-Website-using-Django
     cd Customer-Centric-Website-using-Django-master
     ```
 
